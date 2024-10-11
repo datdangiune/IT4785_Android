@@ -1,4 +1,4 @@
-package com.example.calculator
+package com.example.caculator
 
 import android.annotation.SuppressLint
 import android.os.Bundle
